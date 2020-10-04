@@ -1,0 +1,24 @@
+1. Througput = bytes / Time span, s 
+	     = 90348 / 121.350
+	     = 744,524103831891224 bytes/s
+		1 bytes = 8 bit
+		744,524103831891224 X 8 = 5956 bits/s
+
+2. Delay
+total delay = waktu kedua - waktu pertama
+	    = 7.066753 - 7.065632 
+	    = 0,001103 sec
+
+rata2 delay = Time span, s (displayed) / packets (displayed) 
+	    = 114.284 / 188
+	    = 0,607893617021277 sec 
+
+3.latency = tidak ada
+
+4.jitter = Tidak ada
+
+5. Error / packet lost = terlihat 1 paket, 0.3% paket hilang
+
+Sumber tutorial
+https://www.youtube.com/watch? v=RdXQdO6OjQo&t=217s&ab_channel=MuhammadLuthfiAsSyafii
+https://www.youtube.com/watch?v=6hbzcy- uHX8&t=240s&ab_channel=KrisnaRanggaPradhana
