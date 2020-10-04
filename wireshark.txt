@@ -22,3 +22,5 @@ rata2 delay = Time span, s (displayed) / packets (displayed)
 Sumber tutorial
 https://www.youtube.com/watch? v=RdXQdO6OjQo&t=217s&ab_channel=MuhammadLuthfiAsSyafii
 https://www.youtube.com/watch?v=6hbzcy- uHX8&t=240s&ab_channel=KrisnaRanggaPradhana
+
+https://github.com/limeblaze/wireshark.git
